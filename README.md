@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MaxAlvarez123/PostosTicketInstallation)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MaxAlvarez123/Active_Directoy_Deployment)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MaxAlvarez123/NetworkingActivities)
 
 <h2>🤳Connect with me:</h2>
 
